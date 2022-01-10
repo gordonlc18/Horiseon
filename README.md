@@ -16,11 +16,13 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+
 Changes: 
 
-Replaced generic <div> tags with semantic <header>,<main>, <aside><section> HTML elements.
+Replaced generic <div> tags with semantic <header>,<main>,<aside>,<section> HTML elements.
 
-Organized structure of code to follow the structure of the page. Then added comments in HTML and CSS to help future developers easily find corresponding sections. 
+Organized structure of code to follow the structure of the page. 
+Then added comments in HTML and CSS to help future developers easily find corresponding sections. 
 Consolidated CSS styles that were identical to clean up redundancy of the code. 
 
 Added alt attributes to all image elements to make accessible by screen readers.
