@@ -19,7 +19,7 @@ THEN I find a concise, descriptive title
 
 Changes: 
 
-Replaced generic <div> tags with semantic <header>,<main>,<aside>,<section> HTML elements.
+Replaced generic <div> tags with semantic header, main, aside, and section HTML elements.
 
 Organized structure of code to follow the structure of the page. 
 Then added comments in HTML and CSS to help future developers easily find corresponding sections. 
